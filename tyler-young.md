@@ -1,4 +1,4 @@
-<img align="right" src="img/tyler-young.jpg" alt="Tyler Young of Conversion Insights">
+<img align="right" src="img/tyler-young.jpg" alt="Tyler Young of Conversion Insights" width="300" height="300">
 
 Hi there!
 
